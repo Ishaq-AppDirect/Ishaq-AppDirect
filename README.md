@@ -5,6 +5,10 @@
 - Have contributed to [open source security research](https://www.exploit-db.com/?author=9086) & [DevSecOps Newsletter](https://info.practical-devsecops.com/devsecops-newsletter)  
 - Was involved with the review team for the [Free Docker Security Course](https://free-courses.practical-devsecops.com/docker-security-course/)  
 - Active participant at [Null,OWASP](https://null.co.in/profile/2924-ishaq) chapter meets  
+- Checkout some of my posts:point_down:  
+  - [Resources for Application Security](https://ishaqmohammed.me/posts/resources-for-application-security/)  
+  - [Application Security Engineer Interview Questions](https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/)  
+  - [Application Security Knowledgebase](https://ishaqmohammed.me/posts/application-security-knowledgebase/)  
 
 ### Connect with me:
 
